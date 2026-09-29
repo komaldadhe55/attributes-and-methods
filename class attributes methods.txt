@@ -1,0 +1,111 @@
+
+1.
+
+class Book:
+     title = title 
+     author = author 
+     price = price 
+     pages = pages 
+
+     def open_book():
+        print("Open the book:")
+
+     def read():  
+        print("read the book:")
+
+     def close_book():
+        print("close the book:")
+-------------------------------------------------------------------------------------
+
+2.
+
+class Movie_Ticket:
+      ticket_id = ticket_id 
+      movie_name = movie_name 
+      seat_no = seat_no 
+      price = price 
+
+     def book_ticket():
+          print("book the movie ticket:")
+
+     def cancel_ticket():
+          print("cancel the movie ticket:")
+
+     def show_details()
+          print("show the movie details:")
+
+-------------------------------------------------------------------------------------
+
+3.
+
+class Bus:
+    bus_no = bus_no 
+    route = route 
+    capacity = capacity 
+
+    def start():
+       print("start the bus:")
+
+    def stop():
+       print("stop the bus:")
+
+    def pick_passengers():
+       print("pick the passengers from bus stop:")
+
+-----------------------------------------------------------------------------------------
+4.
+
+class Instagram Account:
+      username = username 
+      password = password
+      email_id = email_id 
+      followers = followers 
+
+      def upload_post():
+         print("upload the post:")
+
+      def add_story():
+         print("Add the story:")
+
+      def follow():
+         print("follow the other instgram users:")
+
+      def like_post():
+         print("like the post:")
+
+----------------------------------------------------------------------------------------
+
+5.
+
+class ATM Machine:
+    atm_id = atm_id  
+    atm_pin = atm_pin 
+    cash_available = cash_available
+
+    def withdraw_cash()
+       print("Money withdraw:")
+
+    def  check_balance()
+       print("Balance Checked:")
+
+    def  print_receipt()
+       print("Receipt:")
+
+--------------------------------------------------------------------------------------
+
+6.
+
+class BankAccount:
+    acc_no = acc_no     
+    acc_holder_name = name          
+    balance = balance 
+    IFSC_code = IFSC code   
+
+    def deposit():
+        print("Amount Deposited:")
+ 
+    def withdraw():  
+        print("Money withdraw:")
+
+    def check_balance():   
+        print("Balance Checked:")
