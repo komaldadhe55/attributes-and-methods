@@ -55,7 +55,7 @@ class Bus:
 -----------------------------------------------------------------------------------------
 4.
 
-class Instagram Account:
+class Instagram_Account:
       username = username 
       password = password
       email_id = email_id 
@@ -77,7 +77,7 @@ class Instagram Account:
 
 5.
 
-class ATM Machine:
+class ATM_Machine:
     atm_id = atm_id  
     atm_pin = atm_pin 
     cash_available = cash_available
@@ -95,7 +95,7 @@ class ATM Machine:
 
 6.
 
-class BankAccount:
+class Bank_Account:
     acc_no = acc_no     
     acc_holder_name = name          
     balance = balance 
